@@ -6,9 +6,8 @@
 
 Microsoft 365 is a suite of apps that help you stay connected and get things done.   It include all the common MS Office apps like Word and Excel, plus the online tools like SharePoint, Teams, Skype (if that's really still a thing), plus Identity Management through Azure Active Directory!
 
-This is a list of links, tools, books, training events, and just useful stuff relating to Microsoft 365 and Azure Active Directory.
 
-
+This initially started out as a basic text file in my OneNote to reference all the things I would need for any given situation or client ticket, but it keeps growing and I figured I should share it with anyone else who works with 365 as much as I do.  I hope it comes in handy! 
 
 --------------------
 
@@ -16,7 +15,7 @@ This is a list of links, tools, books, training events, and just useful stuff re
 
 ## Table of contents
 
-  - [Admin Center Direct Links:](#admin-center-direct-links)
+  - [Admin Center Direct Links](#admin-center-direct-links)
   - [Integrations with Microsoft 365](#integrations-with-microsoft-365)
   - [Tools](#tools)
 
@@ -28,37 +27,37 @@ This is a list of links, tools, books, training events, and just useful stuff re
 
 **[`^        back to top        ^`](#)**
 
-- [Office 365 Admin Center](https://admin.microsoft.com)
-
-- [Office 365 Security & Compliance Center](https://protection.office.com)
-
-- [Office 365 Auditing](https://protection.office.com/unifiedauditlog)
+- [All Office 365 Admin Centers](https://admin.microsoft.com/AdminPortal/Home#/alladmincenters)
 
 - [Azure Active Directory](https://aad.portal.azure.com)
 
 - [Azure Portal](https://portal.azure.com)
 
-- [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365)
-
-- [SharePoint Admin Center](https://admin.microsoft.com/sharepoint?page=home&modern=true)
-
-- [Microsoft Purview / Office 365 Compliance Center](https://compliance.microsoft.com/)
-
-- [Office 365 Security Center](https://security.microsoft.com)
+- [Cloud App Security](https://portal.cloudappsecurity.com/)
 
 - [Endpoint / Device Management (Intune)](https://devicemanagement.microsoft.com/)
 
-- [Cloud App Security](https://portal.cloudappsecurity.com/)
+- [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365)
+
+- [Microsoft Purview / Microsoft 365 Compliance Center](https://compliance.microsoft.com/)
+
+- [Microsoft 365 Security Center](https://security.microsoft.com)
+
+- [Office 365 Admin Center](https://admin.microsoft.com)
+
+- [Office 365 Auditing](https://protection.office.com/unifiedauditlog)
+
+- [SharePoint Admin Center](https://admin.microsoft.com/sharepoint?page=home&modern=true)
 
 - [Teams Admin Center](https://admin.teams.microsoft.com/)
 
-- [All Office 365 Admin Centers](https://admin.microsoft.com/AdminPortal/Home#/alladmincenters)
+
 
 
 
 
 ### Integrations with Microsoft 365
-
+(this one is a bit slim but it'll grow quickly as I find all the links I've got spread across my browser)
 **[`^        back to top        ^`](#)**
 
 - [Ubiquiti UID / Office 365](https://ui.com/uid)
@@ -77,3 +76,4 @@ This is a list of links, tools, books, training events, and just useful stuff re
 - [User State Migration Tool](https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-overview) - You can use User State Migration Tool (USMT) 10.0 to streamline and simplify user state migration during large deployments of Windows operating systems. USMT captures user accounts, user files, operating system settings, and application settings, and then migrates them to a new Windows installation.
 
 - [USMTGUI - User State Migration Tool w/ GUI](https://ehlertech.com/azure/) - USMTGUI is what it states. A GUI to simplify the usage of USMT from Microsoft....
+
