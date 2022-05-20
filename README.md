@@ -8,7 +8,7 @@ Microsoft 365 is a suite of apps that help you stay connected and get things don
 
 This is a list of links, tools, books, training events, and just useful stuff relating to Microsoft 365 and Azure Active Directory.
 
-See [Contributing](.github/CONTRIBUTING.md).
+
 
 --------------------
 
