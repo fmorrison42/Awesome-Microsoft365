@@ -15,6 +15,7 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 ## Table of contents
 
+  - [Insanely Useful 365 Direct Links](#insanely-useful-365-direct-links)
   - [Admin Center Direct Links](#admin-center-direct-links)
   - [Integrations with Microsoft 365](#integrations-with-microsoft-365)
   - [Tools](#tools)
@@ -22,6 +23,11 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 --------------------
 
+### Insanely Useful 365 Direct Links:
+
+- [Password Reset Function](https://passwordreset.microsoftonline.com/) - Keep in mind this is only useful if the tenent admins have enabled SSPR.
+
+--------------------
 
 ### Admin Center Direct Links:
 
