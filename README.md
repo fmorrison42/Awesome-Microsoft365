@@ -25,6 +25,8 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 ### Insanely Useful 365 Direct Links:
 
+- [MFA Setup](https://aka.ms/MFAsetup) - Multi-Factor Authentication Setup - User Link
+
 - [Password Reset Function](https://passwordreset.microsoftonline.com/) - Keep in mind this is only useful if the tenent admins have enabled SSPR.
 
 --------------------
@@ -60,15 +62,7 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 
 
---------------------
 
-### Integrations with Microsoft 365
-(this one is a bit slim but it'll grow quickly as I find all the links I've got spread across my browser)
-
-**[`^        back to top        ^`](#)**
-
-- [Barracuda Email Security](https://www.barracuda.com/programs/office365) - Yes I know, it's a bit redundant. However, I've been using it for a few years and I think the 'cuda is just the Bees' Knees!
-- [Ubiquiti UID / Office 365](https://ui.com/uid)
 
 --------------------
 ### Tools
@@ -79,9 +73,9 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10) - AzCopy is a command-line utility that you can use to copy blobs or files to or from a storage account.
 
-- [MFA Setup](https://aka.ms/MFAsetup) - Multi-Factor Authentication Setup - User Link
+- [Power BI Desktop 
 
-#### Domain / User Migration Tools
+#### __Domain / User Migration Tools__
 
 - [ForensIT User & Domain Migration Tool](https://www.forensit.com/domain-migration.html) - Not officially endorsed by Microsoft, but highly recommended within the Tech Community and various other users.  I've used it on several recent Azure AD migrations when I needed to migrate to an AAD-only profile on the same PC to ensure the user's data and settings were retained. 
 
@@ -89,8 +83,18 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [USMTGUI - User State Migration Tool w/ GUI](https://ehlertech.com/azure/) - USMTGUI is what it states. A GUI to simplify the usage of USMT from Microsoft....
 
-#### PowerShell Tools
+#### __PowerShell Tools__
 
 - [Exchange Online Module](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/2.0.5) - Here's where you can download the latest Exchange Online PS module for connecting from any device to manage your Exchange 365 environment. 
 
+
+
 --------------------
+
+### Integrations with Microsoft 365
+(this one is a bit slim but it'll grow quickly as I find all the links I've got spread across my browser)
+
+**[`^        back to top        ^`](#)**
+
+- [Barracuda Email Security](https://www.barracuda.com/programs/office365) - Yes I know, it's a bit redundant. However, I've been using it for a few years and I think the 'cuda is just the Bees' Knees!
+- [Ubiquiti UID / Office 365](https://ui.com/uid)
