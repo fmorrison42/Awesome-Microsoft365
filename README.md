@@ -73,9 +73,9 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10) - AzCopy is a command-line utility that you can use to copy blobs or files to or from a storage account.
 
-- [Power BI Desktop 
+- [Power BI Desktop Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494) - You can use PowerBI to generate reports from 
 
-#### __Domain / User Migration Tools__
+ __Domain / User Migration Tools__
 
 - [ForensIT User & Domain Migration Tool](https://www.forensit.com/domain-migration.html) - Not officially endorsed by Microsoft, but highly recommended within the Tech Community and various other users.  I've used it on several recent Azure AD migrations when I needed to migrate to an AAD-only profile on the same PC to ensure the user's data and settings were retained. 
 
@@ -83,7 +83,7 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [USMTGUI - User State Migration Tool w/ GUI](https://ehlertech.com/azure/) - USMTGUI is what it states. A GUI to simplify the usage of USMT from Microsoft....
 
-#### __PowerShell Tools__
+ __PowerShell Tools__
 
 - [Exchange Online Module](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/2.0.5) - Here's where you can download the latest Exchange Online PS module for connecting from any device to manage your Exchange 365 environment. 
 
