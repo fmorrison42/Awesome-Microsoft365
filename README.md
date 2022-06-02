@@ -85,6 +85,8 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [USMTGUI - User State Migration Tool w/ GUI](https://ehlertech.com/azure/) - USMTGUI is what it states. A GUI to simplify the usage of USMT from Microsoft....
 
+- [Migrate Google Workspace/G-Suite to MS 365](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes)
+
  ___PowerShell Tools___
 
 - [Exchange Online Module](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/2.0.5) - Here's where you can download the latest Exchange Online PS module for connecting from any device to manage your Exchange 365 environment. 
