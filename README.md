@@ -43,6 +43,8 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [Cloud App Security](https://portal.cloudappsecurity.com/)
 
+- [Entra Admin Center](https://entra.microsoft.com/) - Fancy new Identity & Permissions Management Portal
+
 - [Endpoint / Device Management (Intune)](https://devicemanagement.microsoft.com/)
 
 - [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365)
