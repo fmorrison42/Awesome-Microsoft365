@@ -71,6 +71,8 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 **[`^        back to top        ^`](#)**
 
+- [Microsoft Support and Recovery Assistant (SARA)](https://support.microsoft.com/en-us/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f) - The Microsoft Support and Recovery Assistant works by running tests to figure out what's wrong and offers the best solution for the identified problem. It can currently fix Office, Microsoft 365, or Outlook problems. If the Support and Recovery Assistant can't fix a problem for you, it will suggest next steps and help you get in touch with Microsoft support.    __A.K.A. - The greatest thing since sliced bread!!__
+
 - [365 Service Health Status](https://status.office365.com/) - This site is updated when service issues are preventing tenant administrators from accessing Service health in the Microsoft 365 admin center.
 
 - [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10) - AzCopy is a command-line utility that you can use to copy blobs or files to or from a storage account.
