@@ -71,23 +71,25 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 **[`^        back to top        ^`](#)**
 
-- [Microsoft Support and Recovery Assistant (SARA)](https://support.microsoft.com/en-us/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f) - The Microsoft Support and Recovery Assistant works by running tests to figure out what's wrong and offers the best solution for the identified problem. It can currently fix Office, Microsoft 365, or Outlook problems. If the Support and Recovery Assistant can't fix a problem for you, it will suggest next steps and help you get in touch with Microsoft support.    __A.K.A. - The greatest thing since sliced bread!!__
+- [Microsoft Support and Recovery Assistant (SARA)](https://support.microsoft.com/en-us/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f) - The Microsoft Support and Recovery Assistant works by running tests to figure out what's wrong and offers the best solution for the identified problem. It can currently fix Office, Microsoft 365, or Outlook problems. If the Support and Recovery Assistant can't fix a problem for you, it will suggest next steps and help you get in touch with Microsoft support.    __A.K.A. - The greatest thing since sliced bread!!__ `MSFT 1st Party` `GUI`
 
-- [365 Service Health Status](https://status.office365.com/) - This site is updated when service issues are preventing tenant administrators from accessing Service health in the Microsoft 365 admin center.
+- [365 Service Health Status](https://status.office365.com/) - This site is updated when service issues are preventing tenant administrators from accessing Service health in the Microsoft 365 admin center. `MSFT 1st Party` `web-based`
 
-- [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10) - AzCopy is a command-line utility that you can use to copy blobs or files to or from a storage account.
+- [Readiness Toolkit for Office add-ins and VBA](https://www.microsoft.com/en-us/download/details.aspx?id=55983) - The Readiness Toolkit for Office add-ins and VBA helps you identify compatibility issues with your Microsoft Visual Basic for Applications (VBA) macros and your installed add-ins. Use this tool to inspect VBA macro code and get readiness information for installed Office add-ins.  `MSFT 1st Party` `GUI`
 
-- [Power BI Desktop Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494) - You can use PowerBI to generate reports from 
+- [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10) - AzCopy is a command-line utility that you can use to copy blobs or files to or from a storage account. `MSFT 1st Party` `CLI`
+
+- [Power BI Desktop Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494) `MSFT 1st Party` `GUI`
 
  ___Domain / User Migration Tools___
 
-- [ForensIT User & Domain Migration Tool](https://www.forensit.com/domain-migration.html) - Not officially endorsed by Microsoft, but highly recommended within the Tech Community and various other users.  I've used it on several recent Azure AD migrations when I needed to migrate to an AAD-only profile on the same PC to ensure the user's data and settings were retained. 
+- [ForensIT User & Domain Migration Tool](https://www.forensit.com/domain-migration.html) - Not officially endorsed by Microsoft, but highly recommended within the Tech Community and various other users.  I've used it on several recent Azure AD migrations when I needed to migrate to an AAD-only profile on the same PC to ensure the user's data and settings were retained. `3rd Party` `GUI`
 
-- [User State Migration Tool](https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-overview) - You can use User State Migration Tool (USMT) 10.0 to streamline and simplify user state migration during large deployments of Windows operating systems. USMT captures user accounts, user files, operating system settings, and application settings, and then migrates them to a new Windows installation.
+- [User State Migration Tool](https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-overview) - You can use User State Migration Tool (USMT) 10.0 to streamline and simplify user state migration during large deployments of Windows operating systems. USMT captures user accounts, user files, operating system settings, and application settings, and then migrates them to a new Windows installation. `MSFT 1st Party` `CLI`
 
-- [USMTGUI - User State Migration Tool w/ GUI](https://ehlertech.com/azure/) - USMTGUI is what it states. A GUI to simplify the usage of USMT from Microsoft....
+- [USMTGUI - User State Migration Tool w/ GUI](https://ehlertech.com/azure/) - USMTGUI is what it states. A GUI to simplify the usage of USMT from Microsoft.... `3rd Party` `GUI`
 
-- [Migrate Google Workspace/G-Suite to MS 365](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes)
+- [Migrate Google Workspace/G-Suite to MS 365](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes) `MSFT 1st Party` `web-based`
 
  ___PowerShell Tools___
  
