@@ -93,9 +93,9 @@ This initially started out as a basic text file in my OneNote to reference all t
 
  ___PowerShell Tools___
  
-- [Azure AD Connect configuration documenter](https://github.com/Microsoft/AADConnectConfigDocumenter) - AAD Connect configuration documenter is a tool to generate documentation of an Azure AD Connect installation. Currently, the documentation is only limited to the Azure AD Connect sync configuration.
+- [Azure AD Connect configuration documenter](https://github.com/Microsoft/AADConnectConfigDocumenter) - AAD Connect configuration documenter is a tool to generate documentation of an Azure AD Connect installation. Currently, the documentation is only limited to the Azure AD Connect sync configuration. `POSH`
 
-- [Exchange Online Module](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/2.0.5) - Here's where you can download the latest Exchange Online PS module for connecting from any device to manage your Exchange 365 environment. 
+- [Exchange Online Module](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/2.0.5) - Here's where you can download the latest Exchange Online PS module for connecting from any device to manage your Exchange 365 environment. `POSH`
 
 
 
