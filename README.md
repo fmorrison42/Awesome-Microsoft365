@@ -18,6 +18,7 @@ This initially started out as a basic text file in my OneNote to reference all t
   - [Insanely Useful 365 Direct Links](#insanely-useful-365-direct-links)
   - [Admin Center Direct Links](#admin-center-direct-links)
   - [Integrations with Microsoft 365](#integrations-with-microsoft-365)
+  - [365 Add-ons](#365-add-ons)
   - [Tools](#tools)
 
 
@@ -67,6 +68,8 @@ This initially started out as a basic text file in my OneNote to reference all t
 --------------------
 ### 365 Add-ons
 
+**[`^        back to top        ^`](#)**
+
 - [Microsoft 365 Dev Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) - Get an instant Microsoft 365 E5 sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform.  It also comes with a TON of extra free goodies to help with developing apps and skills in 365.  It's been a huge help in studying for the different 365 exams. 
 
 
@@ -75,6 +78,8 @@ This initially started out as a basic text file in my OneNote to reference all t
 ### Tools
 
 **[`^        back to top        ^`](#)**
+
+- [Microsoft Office 365 Customization Tool](https://config.office.com/deploymentsettings) - The Office Customization Tool creates the configuration files that are used to deploy Office in large organizations. These configuration files give you more control over an Office installation: you can define which applications and languages are installed, how those applications should be updated, and application preferences. `MSFT 1st Party` `web based`
 
 - [Microsoft Support and Recovery Assistant (SARA)](https://support.microsoft.com/en-us/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f) - The Microsoft Support and Recovery Assistant works by running tests to figure out what's wrong and offers the best solution for the identified problem. It can currently fix Office, Microsoft 365, or Outlook problems. If the Support and Recovery Assistant can't fix a problem for you, it will suggest next steps and help you get in touch with Microsoft support.    __A.K.A. - The greatest thing since sliced bread!!__ `MSFT 1st Party` `GUI`
 
