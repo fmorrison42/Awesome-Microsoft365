@@ -67,7 +67,7 @@ This initially started out as a basic text file in my OneNote to reference all t
 --------------------
 ### 365 Add-ons
 
-- [Microsoft 365 Dev Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) - Get an instant Microsoft 365 E5 sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform.  It also comes with a TON
+- [Microsoft 365 Dev Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) - Get an instant Microsoft 365 E5 sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform.  It also comes with a TON of extra free goodies to help with developing apps and skills in 365.  It's been a huge help in studying for the different 365 exams. 
 
 
 
