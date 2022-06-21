@@ -64,7 +64,10 @@ This initially started out as a basic text file in my OneNote to reference all t
 - [Teams Admin Center](https://admin.teams.microsoft.com/)
 
 
+--------------------
+### 365 Add-ons
 
+- [Microsoft 365 Dev Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) - Get an instant Microsoft 365 E5 sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform.  It also comes with a TON
 
 
 
