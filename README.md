@@ -17,9 +17,9 @@ This initially started out as a basic text file in my OneNote to reference all t
 
   - [Insanely Useful 365 Direct Links](#insanely-useful-365-direct-links)
   - [Admin Center Direct Links](#admin-center-direct-links)
-  - [Integrations with Microsoft 365](#integrations-with-microsoft-365)
   - [365 Add-ons](#365-add-ons)
-  - [Tools](#tools)
+  - [Tools](#tools)  
+  - [Integrations with Microsoft 365](#integrations-with-microsoft-365)
 
 
 --------------------
