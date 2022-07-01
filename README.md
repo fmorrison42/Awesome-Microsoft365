@@ -28,6 +28,8 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [MFA Setup](https://aka.ms/MFAsetup) - Multi-Factor Authentication Setup - User Link
 
+- [365 My Account (edit User Info)](https://myaccount.microsoft.com/) - Direct link to edit your personal contact and security information for 365 without having to navigate through 365. 
+
 - [365 Security Info](https://mysignins.microsoft.com/security-info) - A secondary method for editing your personal 365 security features, especially for MFA. 
 
 - [Password Reset Function](https://passwordreset.microsoftonline.com/) - Keep in mind this is only useful if the tenent admins have enabled SSPR.
