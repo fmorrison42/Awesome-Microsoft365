@@ -26,6 +26,8 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 ### Insanely Useful 365 Direct Links:
 
+- [Power Automate Home Page](https://make.powerautomate.com/) - The new website link to the Power Automate Home Page.
+
 - [MFA Setup](https://aka.ms/MFAsetup) - Multi-Factor Authentication Setup - User Link
 
 - [365 My Account (edit User Info)](https://myaccount.microsoft.com/) - Direct link to edit your personal contact and security information for 365 without having to navigate through 365. 
