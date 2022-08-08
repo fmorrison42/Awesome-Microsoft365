@@ -27,7 +27,7 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 ### 365 Scripts
 
-- [Azure AD Sync Scripts](#) - Useful scripts for Azure AD Sync. 
+- [Azure AD Sync Scripts](https://github.com/fmorrison42/Awesome-Microsoft365/blob/main/Scripts/Azure-AD-Sync.ps1) - Useful scripts for Azure AD Sync. 
 
 
 --------------------
