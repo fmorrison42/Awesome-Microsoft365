@@ -15,11 +15,19 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 ## Table of contents
 
+  - [365 Scripts](#365-scripts)
   - [Insanely Useful 365 Direct Links](#insanely-useful-365-direct-links)
   - [Admin Center Direct Links](#admin-center-direct-links)
   - [365 Add-ons](#365-add-ons)
   - [Tools](#tools)  
   - [Integrations with Microsoft 365](#integrations-with-microsoft-365)
+
+
+--------------------
+
+### 365 Scripts
+
+- [Azure AD Sync Scripts](#) - Useful scripts for Azure AD Sync. 
 
 
 --------------------
