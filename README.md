@@ -95,6 +95,10 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com/tests/o365) - This is the mother of all tools (more like the host site of every network tool and test you could possibly need to manage your tenant)! It has everything from Exchange Online Custom Domain DNS Connectivity Tests to Outbound SMTP Email tests, to Exchange ActiveSync.  And that's just the email tests.  There are 4 other sections of tests AND you can even download the SARA client if you need to!! 
 
+#### PC Tools
+
+- [Office Removal & Cleanup Tool](https://support.microsoft.com/en-us/office/uninstall-office-automatically-9ad57b43-fa12-859a-9cf0-b694637b3b05) - Helps uninstall previous versions of MS Office when remnants and artifacts get left behind. `MSFT 1st Party` `GUI`
+
 #### 365 Management Tools
 
 - [Microsoft Office 365 Deployment Tool](https://go.microsoft.com/fwlink/p/?LinkID=626065) - (download link) The Office Deployment Tool (ODT) is a command-line tool that you can use to download and deploy Microsoft 365 Apps to your client computers. The ODT gives you more control over an Office installation: you can define which products and languages are installed, how those products should be updated, and whether or not to display the install experience to your users. [Documentation & Reference (MS Docs)](https://docs.microsoft.com/en-us/deployoffice/overview-office-deployment-tool) `MSFT 1st Party` `CLI`
@@ -127,9 +131,7 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [Exchange Online Module](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/2.0.5) - Here's where you can download the latest Exchange Online PS module for connecting from any device to manage your Exchange 365 environment. `POSH`
 
-#### PC Tools
 
-- [Office Removal & Cleanup Tool](https://support.microsoft.com/en-us/office/uninstall-office-automatically-9ad57b43-fa12-859a-9cf0-b694637b3b05) - Helps uninstall previous versions of MS Office when remnants and artifacts get left behind. `MSFT 1st Party` `GUI`
 
 --------------------
 
