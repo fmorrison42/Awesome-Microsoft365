@@ -127,7 +127,9 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [Exchange Online Module](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/2.0.5) - Here's where you can download the latest Exchange Online PS module for connecting from any device to manage your Exchange 365 environment. `POSH`
 
+#### PC Tools
 
+- [Office Removal & Cleanup Tool](https://support.microsoft.com/en-us/office/uninstall-office-automatically-9ad57b43-fa12-859a-9cf0-b694637b3b05) - Helps uninstall previous versions of MS Office when remnants and artifacts get left behind. `MSFT 1st Party` `GUI`
 
 --------------------
 
