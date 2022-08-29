@@ -28,6 +28,7 @@ This initially started out as a basic text file in my OneNote to reference all t
 ### 365 Scripts
 
 - [Azure AD Sync Scripts](https://github.com/fmorrison42/Awesome-Microsoft365/blob/main/Scripts/Azure-AD-Sync.ps1) - Useful scripts for Azure AD Sync. 
+- [Update UPN for AD Users](https://github.com/fmorrison42/Awesome-Microsoft365/blob/main/Scripts/Change-UPNForAllADUsers.ps1) - When your on-prem AD tenant has a UPN like "Marvel.local" or "corp.Marvel.com" but you're migrating to Azure AD and need all the UPN's to match up to a different UPN, this script will quickly process each user in your Active directory and change their UPN to the appropriate suffix.  (assuming it's already created in Active Directory Domains and Trusts)
 
 
 --------------------
