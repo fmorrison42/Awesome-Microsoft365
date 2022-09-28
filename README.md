@@ -21,7 +21,7 @@ This initially started out as a basic text file in my OneNote to reference all t
   - [365 Add-ons](#365-add-ons)
   - [Tools](#tools)  
   - [Integrations with Microsoft 365](#integrations-with-microsoft-365)
-  - [365 Training & Certification](#training-and-certification)
+  - [365 Training & Certification](#365-training-and-certification)
 
 
 --------------------
@@ -150,5 +150,6 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 ### 365 Training and Certification
 
+**[`^        back to top        ^`](#)**
 
 - [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/trainingdays/) - Microsoft VTDs are the easiest way to get into Microsoft Cloud Certifications. They are specific pre-recorded webinars that when you attend, you will receive a 100% off voucher. 
