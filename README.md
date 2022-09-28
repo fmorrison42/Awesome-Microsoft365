@@ -21,6 +21,7 @@ This initially started out as a basic text file in my OneNote to reference all t
   - [365 Add-ons](#365-add-ons)
   - [Tools](#tools)  
   - [Integrations with Microsoft 365](#integrations-with-microsoft-365)
+  - [365 Training & Certification](#training-and-certification)
 
 
 --------------------
@@ -143,3 +144,11 @@ This initially started out as a basic text file in my OneNote to reference all t
 
 - [Barracuda Email Security](https://www.barracuda.com/programs/office365) - Yes I know, it's a bit redundant. However, I've been using it for a few years and I think the 'cuda is just the Bees' Knees!
 - [Ubiquiti UID / Office 365](https://ui.com/uid)
+
+
+--------------------
+
+### 365 Training and Certification
+
+
+- [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/trainingdays/) - Microsoft VTDs are the easiest way to get into Microsoft Cloud Certifications. They are specific pre-recorded webinars that when you attend, you will receive a 100% off voucher. 
